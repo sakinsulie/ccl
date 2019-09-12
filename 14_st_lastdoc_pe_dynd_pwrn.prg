@@ -2,6 +2,7 @@ drop program 14_st_lastdoc_pe_dynD_PwrN:dba go
 create program 14_st_lastdoc_pe_dynD_PwrN:dba
  \\Client\C$\CernerWorks\ccl_backup\14_st_lastdoc_pe_dynd_pwrn.prg
 ;prompts
+; Simeon Changing for test.
 prompt
 	"Output to File/Printer/MINE" = "MINE"
  
