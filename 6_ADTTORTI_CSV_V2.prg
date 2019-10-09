@@ -13,7 +13,7 @@ with OUTDEV, trackGroupCd, startDate, endDate, delType, formatType
  
  
 /**************************************************************
-; DVDev DECLARED RECORD STRUCTURE
+; DVDev DECLARED RECORD STRUCTURE Simeon A, testing
 **************************************************************/
 free record RS
 record RS
